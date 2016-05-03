@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./chroniconanglia02abbegoog/chroniconanglia02abbegoog_0007.png"; bbox 0 0 850 1335; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 250 482 488 507">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 250 482 488 507">
+     <span class='ocr_line' id='line_1_1' title="bbox 250 482 488 507; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 250 482 488 507; x_wconf 87' lang='lat' dir='ltr'>PUBLICATIONS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 187 534 555 599">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 187 534 555 599">
+     <span class='ocr_line' id='line_1_2' title="bbox 395 534 405 546; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 395 534 405 546; x_wconf 64' lang='lat' dir='ltr'><strong>a</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 187 573 555 599; baseline 0.003 -1"><span class='ocrx_word' id='word_1_3' title='bbox 187 573 346 599; x_wconf 83' lang='lat' dir='ltr'><strong>cAXTON</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 374 573 555 599; x_wconf 86' lang='lat' dir='ltr'><strong>SOCIETY.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 119 653 615 673">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 119 653 615 673">
+     <span class='ocr_line' id='line_1_4' title="bbox 119 653 615 673; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 119 653 237 672; x_wconf 83' lang='lat' dir='ltr'><strong>HEYLIN&#39;S</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 251 653 392 672; x_wconf 75' lang='lat' dir='ltr'>MEMORIAL</span> <span class='ocrx_word' id='word_1_7' title='bbox 406 654 436 672; x_wconf 93' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_8' title='bbox 450 654 615 673; x_wconf 85' lang='lat' dir='ltr'>WAYNFLETE.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
